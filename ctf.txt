@@ -1,0 +1,54 @@
+
+ciphertext technique
+
+
+Text=Cipher text is technique one of the earliest and simplest method of encryption technique. It’s simply a type of substitution cipher{cynical_flag}>>cynical_flag{Cipher_text_we_are_hero}.Return the new string generated.
+
+rot13=Pvcure grkg vf grpuavdhr bar bs gur rneyvrfg naq fvzcyrfg zrgubq bs rapelcgvba grpuavdhr. Vg’f fvzcyl n glcr bs fhofgvghgvba pvcure{plavpny_synt}>>plavpny_synt{Pvcure_grkg_jr_ner_ureb}.Erghea gur arj fgevat trarengrq.
+
+
+
+
+
+
+
+
+
+
+
+---Pvcure grkg vf grpuavdhr bar bs gur rneyvrfg naq fvzcyrfg zrgubq bs rapelcgvba grpuavdhr. Vg’f fvzcyl n glcr bs fhofgvghgvba pvcure{plavpny_synt}>>cGxhdnBueV9zeW50{UHZjdXJlX2dya2dfanJfbmVyX3VyZWI=}.Erghea gur arj fgevat trarengrq.
+
+
+
+
+
+
+base64= cGxhdnBueV9zeW50{UHZjdXJlX2dya2dfanJfbmVyX3VyZWI=} decodebase64
+
+
+ --->    plavpny_synt{Pvcure_grkg_jr_ner_ureb}
+then rot13:-
+cynical_flag{Cipher_text_we_are_hero}.
+
+http://ijcsn.org/IJCSN-2018/7-4/A-Network-Layer-Intrusion-Prevention-System-for-a-Metasploit-Application-Attack.pdf
+http://www.ijesrt.com/issues%20pdf%20file/Archive-2016/February-2016/41_A%20STUDY%20OF%20METASPLOIT%20TOOL.pdf
+
+
+http://www.iraj.in/journal/journal_file/journal_pdf/12-344-149191172452-55.pdf
+http://www.ijsrd.com/articles/IJSRDV4I120450.pdf
+
+https://pdfs.semanticscholar.org/564e/db099d029e14da1baf5f7a5a9c022ccc2651.pdf
+https://www.exploit-db.com/docs/english/27935-metasploit---the-exploit-learning-tree.pdf
+
+https://dl.packetstormsecurity.net/papers/general/pentesting-with-metasploit.pdf
+https://www.researchgate.net/publication/318710609_Penetration_Testing_and_Metasploit
+
+https://thecyberkiddie.wordpress.com/2019/02/26/hacking-whatsapp-by-android-phone/
+http://ultrahacktalks.blogspot.com/2019/03/hack-android-by-sending-and-pdf-file.html
+https://www.adlice.com/wp-content/uploads/2016/06/Capture6-2.png
+https://metasploit.help.rapid7.com/docs/msf-overview
+https://www.ijraset.com/fileserve.php?FID=5055
+https://www.oreilly.com/library/view/metasploit/9781593272883/pr04s03.html
+https://www.academia.edu/26998948/Analysis_of_Penetration_Testing_and_Vulnerability_in_Computer_Networks
+
+

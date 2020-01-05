@@ -1,0 +1,18 @@
+a (%61) b (%62) c (%63) d (%64) e (%65) f (%66) g (%67) h (%68) i (%69) j (%6A) k (%6B) 
+l (%6C) m (%6D) n (%6E) o (%6F) p (%70) q (%71) r (%72) s (%73) t (%74) u (%75) v (%76) 
+w (%77) x (%78) y (%79) z (%80) SPACE (%20) _(%38) {(^)
+
+https://www.youtube.com/watch?v=IyGVwOd68to
+
+
+encode base64:-
+QW1lcmljYW4gU3RhbmRhcmQgQ29kZSBmb3IgSW5mb3JtYXRpb24gSW50ZXJleGNoYW5nZSwgQVNDSUkgaXMgYSBzdGFuZGFyZCB0aGF0IGFzc2lnbnMgbGV0dGVycywgbnVtYmVycywgYW5kIG90aGVyIGNoYXJhY3RlcnMgaW4gdGhlIDI1NiBzbG90cyBhdmFpbGFibGUgaW4gdGhlIDgtYml0IGNvZGUuIFRoZSBBU0NJSSBkZWNpbWFsIChEZWMpIG51bWJlciBpcyBjcmVhdGVkIGZyb20gYmluYXJ5LCB3aGljaCBpcyB0aGUgbGFuZ3VhZ2Ugb2YgYWxsIGNvbXB1dGVycy4=JTYzJTc5JTZFJTY5JTYzJTYxJSU2QyUzOCU2NiU2QyU2MSU2N143MyU2OSU2RCU3NSU2QyU2MSU3NCU2RiU3MiUzOCU2OSU3MyUzOCU2RiU2RSU2NV4=
+
+text---- %63%79%6E%69%63%61%%6C%38%66%6C%61%67^73%69%6D%75%6C%61%74%6F%72%38%69%73%38%6F%6E%65^
+
+a (%61) b (%62) c (%63) d (%64) e (%65) f (%66) g (%67) h (%68) i (%69) j (%6A) k (%6B) 
+l (%6C) m (%6D) n (%6E) o (%6F) p (%70) q (%71) r (%72) s (%73) t (%74) u (%75) v (%76) 
+w (%77) x (%78) y (%79) z (%80) SPACE (%20) _(%38) {(^)
+
+text:-
+----American Standard Code for Information Interexchange, ASCII is a standard that assigns letters, numbers, and other characters in the 256 slots available in the 8-bit code. The ASCII decimal (Dec) number is created from binary, which is the language of all computers.flag=cynical_flag{simulator_is_one}.
